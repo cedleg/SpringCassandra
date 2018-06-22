@@ -1,0 +1,2 @@
+# SpringCassandra
+Spring Cassandra starter
